@@ -11,7 +11,7 @@ A complete, "out-of-the-box" interactive installer for **Chimera Linux**, featur
 2. Run the following command:
 
 ```bash
-curl -fsSL https://githubusercontent.com -o install.sh && chmod +x install.sh && ./install.sh
+curl -fsSL https://github.com/constantinadry26/chimera-hyprland.git -o install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ## Hyprland Shortcuts
